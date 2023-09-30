@@ -44,4 +44,4 @@ async def on_message(message):
                 else:
                     await message.channel.send("you lost , enemy team win")
 
-client.run("MTExNDE1NjY5NzQzOTcxMTIzMg.GgKjWK.qNdIK-e0C-3aAoGosZ5_515Q3uII_SvFoNmloU")
+client.run("")
